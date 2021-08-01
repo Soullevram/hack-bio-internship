@@ -1,1 +1,3 @@
-# hack-bio-internship
+# Hack Bio Internship
+# Team Sanger
+# 
